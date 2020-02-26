@@ -1,0 +1,64 @@
+2020-02-26 13:39:33,649 INFO  amazoninterest:16 - Enter the amount : 
+2020-02-26 16:45:50,096 INFO  amazoninterest:18 - Enter the number of years : 
+2020-02-26 16:45:54,077 INFO  amazoninterest:20 - Enter the rate of interest : 
+2020-02-26 16:46:00,222 INFO  amazoninterest:24 - Simple Interest :6061601.0
+2020-02-26 16:46:00,223 INFO  amazoninterest:25 - Compound Interest :5.562378731742572E35
+2020-02-26 16:46:00,223 INFO  amazoninterest:27 - -----------------------------------------
+2020-02-26 16:46:00,223 INFO  amazoninterest:28 - 1.Standard material
+2020-02-26 16:46:00,223 INFO  amazoninterest:29 - 2.Above standard material
+2020-02-26 16:46:00,223 INFO  amazoninterest:30 - 3.High standard material
+2020-02-26 16:46:00,224 INFO  amazoninterest:31 - 4.Automated home
+2020-02-26 16:46:00,224 INFO  amazoninterest:32 - Enter your choice : 
+2020-02-26 16:46:18,361 INFO  Standard:75 - Enter the area of land in sqfeet
+2020-02-26 16:46:24,934 INFO  Standard:78 - The total cost of construction = 217500.0
+2020-02-26 16:47:01,882 INFO  amazoninterest:16 - Enter the amount : 
+2020-02-26 16:47:14,692 INFO  amazoninterest:18 - Enter the number of years : 
+2020-02-26 16:47:16,993 INFO  amazoninterest:20 - Enter the rate of interest : 
+2020-02-26 16:47:18,414 INFO  amazoninterest:24 - Simple Interest :720948.0
+2020-02-26 16:47:18,415 INFO  amazoninterest:25 - Compound Interest :19678.54864933235
+2020-02-26 16:47:18,415 INFO  amazoninterest:27 - -----------------------------------------
+2020-02-26 16:47:18,416 INFO  amazoninterest:28 - 1.Standard material
+2020-02-26 16:47:18,416 INFO  amazoninterest:29 - 2.Above standard material
+2020-02-26 16:47:18,416 INFO  amazoninterest:30 - 3.High standard material
+2020-02-26 16:47:18,416 INFO  amazoninterest:31 - 4.Automated home
+2020-02-26 16:47:18,417 INFO  amazoninterest:32 - Enter your choice : 
+2020-02-26 16:47:22,511 ERROR Standard:82 - Enter a valid choice 
+2020-02-26 16:48:02,575 INFO  amazoninterest:16 - Enter the amount : 
+2020-02-26 16:48:08,916 INFO  amazoninterest:18 - Enter the number of years : 
+2020-02-26 16:48:11,215 INFO  amazoninterest:20 - Enter the rate of interest : 
+2020-02-26 16:48:12,748 INFO  amazoninterest:24 - Simple Interest :292.0
+2020-02-26 16:48:12,748 INFO  amazoninterest:25 - Compound Interest :7.9702505667607735
+2020-02-26 16:48:12,748 INFO  amazoninterest:27 - -----------------------------------------
+2020-02-26 16:48:12,748 INFO  amazoninterest:28 - 1.Standard material
+2020-02-26 16:48:12,749 INFO  amazoninterest:29 - 2.Above standard material
+2020-02-26 16:48:12,749 INFO  amazoninterest:30 - 3.High standard material
+2020-02-26 16:48:12,749 INFO  amazoninterest:31 - 4.Automated home
+2020-02-26 16:48:12,750 INFO  amazoninterest:32 - Enter your choice : 
+2020-02-26 16:48:16,836 ERROR Standard:82 - Enter a valid choice 
+2020-02-26 16:48:29,008 INFO  amazoninterest:16 - Enter the amount : 
+2020-02-26 16:48:34,833 INFO  amazoninterest:18 - Enter the number of years : 
+2020-02-26 16:48:36,427 INFO  amazoninterest:20 - Enter the rate of interest : 
+2020-02-26 16:48:37,808 INFO  amazoninterest:24 - Simple Interest :5694.0
+2020-02-26 16:48:37,809 INFO  amazoninterest:25 - Compound Interest :155.41988605183508
+2020-02-26 16:48:37,810 INFO  amazoninterest:27 - -----------------------------------------
+2020-02-26 16:48:37,810 INFO  amazoninterest:28 - 1.Standard material
+2020-02-26 16:48:37,810 INFO  amazoninterest:29 - 2.Above standard material
+2020-02-26 16:48:37,811 INFO  amazoninterest:30 - 3.High standard material
+2020-02-26 16:48:37,811 INFO  amazoninterest:31 - 4.Automated home
+2020-02-26 16:48:37,811 INFO  amazoninterest:32 - Enter your choice : 
+2020-02-26 16:48:40,328 INFO  Standard:68 - Enter the area of land in sqfeet
+2020-02-26 16:48:42,514 INFO  Standard:71 - The total cost of construction = 136800.0
+2020-02-26 16:49:19,471 INFO  amazoninterest:16 - Enter the amount : 
+2020-02-26 16:49:37,220 INFO  amazoninterest:16 - Enter the amount : 
+2020-02-26 16:49:40,584 INFO  amazoninterest:18 - Enter the number of years : 
+2020-02-26 16:49:42,270 INFO  amazoninterest:20 - Enter the rate of interest : 
+2020-02-26 16:49:45,442 INFO  amazoninterest:24 - Simple Interest :602070.0
+2020-02-26 16:49:45,442 INFO  amazoninterest:25 - Compound Interest :78923.87470111453
+2020-02-26 16:49:45,443 INFO  amazoninterest:27 - -----------------------------------------
+2020-02-26 16:49:45,443 INFO  amazoninterest:28 - 1.Standard material
+2020-02-26 16:49:45,443 INFO  amazoninterest:29 - 2.Above standard material
+2020-02-26 16:49:45,444 INFO  amazoninterest:30 - 3.High standard material
+2020-02-26 16:49:45,444 INFO  amazoninterest:31 - 4.Automated home
+2020-02-26 16:49:45,445 INFO  amazoninterest:32 - Enter your choice : 
+2020-02-26 16:49:47,879 INFO  Standard:68 - Enter the area of land in sqfeet
+2020-02-26 16:49:50,029 INFO  Standard:71 - The total cost of construction = 136800.0
